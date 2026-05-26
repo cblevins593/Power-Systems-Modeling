@@ -29,7 +29,7 @@ This script will output the following into the directory:<br>
 'features.parquet'<br>
 
 This script will output the following into the directory:<br>
-'direct_bus_predictions.parquet'
+'direct_bus_predictions.parquet' - The file is not uploaded to Github however, a sample is shown at the bottom of the jupyter notebook
 
 ## Zone Share Bus Forcast - Runtime ~ 3 minutes
 'A2_zone_bus_share.ipynb' shall be run third with the following files in the directory:<br>
@@ -38,7 +38,7 @@ This script will output the following into the directory:<br>
 'lagged_bus_share.parquet'<br>
 
 This script will output the following into the directory:<br>
-'zone_bus_share_predictions.parquet'
+'zone_bus_share_predictions.parquet' - The file is not uploaded to Github however, a sample is shown at the bottom of the jupyter notebook
 
 # Assignment 3 - Strategy
 A possible strategy for matching Dayzer buses to the Panorama buses is outlined as follows:<br>
